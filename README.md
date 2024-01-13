@@ -3,6 +3,11 @@ Son ejercicios de la versión 0.1 en java
 
 ## **Estructura de control if y else**
 
+> [!IMPORTANT]
+> Los ejercicios son:
+> - parOImpar
+> - 
+
 > [!NOTE]
 >
 > El if evalúa una expresión booleana y ejecuta un bloque de código si la expresión es verdadera.
@@ -16,5 +21,12 @@ Son ejercicios de la versión 0.1 en java
 
 >[!TIP]
 >
->Si quieres agregar más de una línea de código en cada caso, tendrás que usar llaves de todas formas. Además,
+>Si lo que se quiere es agregar más de una línea de código en cada caso, tendrás que usar llaves de todas formas. Además,
 >si no usas llaves, puede ser más difícil identificar qué código pertenece a cada caso.
+
+>[!TIP]
+>
+>Usa paréntesis para agrupar las expresiones booleanas que usas en el if. Esto te ayudará a evitar errores
+>de lógica y a clarificar el orden de las operaciones.
+
+>
