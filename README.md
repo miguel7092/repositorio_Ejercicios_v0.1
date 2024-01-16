@@ -2,7 +2,7 @@
 Son ejercicios de la versión 0.1 en java
 
 ## índice
-- [Estructura de control if y else](#estructura de control if y else)
+- [Estructura de control if y else](#estructura-de-control-if-y-else)
 - [While](#while)
 
 ## **Estructura de control if y else**
