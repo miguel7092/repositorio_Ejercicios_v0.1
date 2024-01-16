@@ -10,7 +10,7 @@ Son ejercicios de la versión 0.1 en java
 > [!IMPORTANT]
 > Los ejercicios son:
 > - parOImpar
-> - 
+> - parOImparTernario
 
 > [!NOTE]
 >
