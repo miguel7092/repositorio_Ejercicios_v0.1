@@ -1,3 +1,5 @@
+package ejercicios_If_Else;
+
 import java.util.Scanner;
 
 public class par_O_Impar_Ternario {
