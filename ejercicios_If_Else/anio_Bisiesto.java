@@ -17,9 +17,9 @@ public class anio_Bisiesto {
 
         boolean esBisiesto;
 
-        if (anio % 4 == 0){ // si es divisible por 4
-            if (anio % 100 == 0){ // excepto por 100
-                if (anio % 400 == 0){ // a menos que sea por 400
+        if (anio % 4 == 0){ // si es divisible por 4.
+            if (anio % 100 == 0){ // excepto por 100.
+                if (anio % 400 == 0){ // a menos que sea por 400.
                     esBisiesto = true;
                 }
                 else{
