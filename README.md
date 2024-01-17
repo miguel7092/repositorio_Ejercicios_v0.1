@@ -5,6 +5,11 @@ Son ejercicios de la versión 0.1 en java
 - [Estructura de control if y else](#estructura-de-control-if-y-else)
 - [While](#while)
 
+# Estructuras de control en Java
+- Las estructuras de control tienen las siguientes características:
+  - Tienen un único punto de entrada y un único punto de salida. 
+  - Están compuestas por instrucciones o por otras estructuras de control.
+
 ## **Estructura de control if y else**
 
 > [!IMPORTANT]
