@@ -12,6 +12,8 @@ Son ejercicios de la versión 0.1 en java
 > - If y Else
 >   - parOImpar
 >   - parOImparTernario
+>   - [aniobisiesto](https://github.com/miguel7092/repositorio_Ejercicios_v0.1/blob/main/Graf_algo_bisiesto.png?raw=true)
+>   - 
 
 > [!NOTE]
 >
